@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✅ WORKING: readme-typing-svg.demolab.com is stable -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=Hi+%F0%9F%91%8B+I%27m+Ayush+Sharma;Full+Stack+Dev+%7C+Java+%26+React+%7C+AWS;LeetCode+Top+6.9%25+%7C+800%2B+Problems+%E2%9A%A1;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=210&lines=Hi+%F0%9F%91%8B+I%27m+Ayush+Sharma;Full+Stack+Dev+%7C+Java+%26+React+%7C+AWS;LeetCode+Top+6.9%25+%7C+800%2B+Problems+%E2%9A%A1;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
